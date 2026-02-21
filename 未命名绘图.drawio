@@ -1,0 +1,139 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.1">
+  <diagram name="第 1 页" id="1zt0Q2pipi6ik8-sv_gH">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GGZrdX5-cJyT3EWxFrWi-5.4" edge="1" parent="1" source="L_Label" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Layer1_Left" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Label" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=14;" value="研究阶段与目标" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_Label" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=14;" value="核心研究内容 (Research Contents)" vertex="1">
+          <mxGeometry height="40" width="760" x="180" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R_Label" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=14;" value="关键方法/手段" vertex="1">
+          <mxGeometry height="40" width="160" x="960" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer1_Left" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b3b3b3;" value="系统创成阶段&lt;br&gt;(硬件与平台)" vertex="1">
+          <mxGeometry height="120" width="120" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer1_Main" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;dashed=1;" value="" vertex="1">
+          <mxGeometry height="120" width="760" x="180" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer1_Title" parent="1" style="text;html=1;align=left;fontStyle=1;fontColor=#333333;" value="第一层：基础层——系统创成与实验平台搭建 (第2章)" vertex="1">
+          <mxGeometry height="20" width="400" x="190" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="1.1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f9fa;strokeColor=#9673a6;fontSize=11;" value="1.1 硬件本体研发&lt;br&gt;12-DOF架构/人机运动学兼容&lt;br&gt;执行器模块与动力源配置" vertex="1">
+          <mxGeometry height="70" width="220" x="200" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="1.2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f9fa;strokeColor=#9673a6;fontSize=11;" value="1.2 传感与通信系统&lt;br&gt;EtherCAT 分布式架构&lt;br&gt;多模态信息流采集与同步" vertex="1">
+          <mxGeometry height="70" width="220" x="450" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="1.3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f9fa;strokeColor=#9673a6;fontSize=11;" value="1.3 仿真与实验环境&lt;br&gt;高保真物理仿真搭建&lt;br&gt;硬件在环与安全保护机制" vertex="1">
+          <mxGeometry height="70" width="220" x="700" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer1_Right" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b3b3b3;fontSize=11;" value="CAD/CAE 设计&lt;br&gt;分布式控制 (EtherCAT)&lt;br&gt;Co-simulation" vertex="1">
+          <mxGeometry height="120" width="160" x="960" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer2_Left" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f7ff;strokeColor=#6c8ebf;" value="理论建模阶段&lt;br&gt;(特性表征)" vertex="1">
+          <mxGeometry height="120" width="120" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer2_Main" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f7ff;strokeColor=#6c8ebf;dashed=1;" value="" vertex="1">
+          <mxGeometry height="120" width="760" x="180" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer2_Title" parent="1" style="text;html=1;align=left;fontStyle=1;fontColor=#004080;" value="第二层：理论层——混合动力学建模与扰动表征 (第3章)" vertex="1">
+          <mxGeometry height="20" width="400" x="190" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="2.1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" value="2.1 系统动力学建模&lt;br&gt;浮动基广义坐标人机系统&lt;br&gt;软接触正则化/足部撞击形式化" vertex="1">
+          <mxGeometry height="70" width="220" x="200" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="2.2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" value="2.2 柔性变形补偿 (TDE)&lt;br&gt;Transformer 时序形变网络&lt;br&gt;前馈补偿器与精度提升" vertex="1">
+          <mxGeometry height="70" width="220" x="450" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="2.3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" value="2.3 交互与扰动等效建模&lt;br&gt;外界/穿戴者扰动统一表征&lt;br&gt;混合系统状态空间描述" vertex="1">
+          <mxGeometry height="70" width="220" x="700" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer2_Right" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f7ff;strokeColor=#6c8ebf;fontSize=11;" value="基于 Transformer 的 TDE&lt;br&gt;拉格朗日动力学&lt;br&gt;Spring-Damper 模型" vertex="1">
+          <mxGeometry height="120" width="160" x="960" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer3_Left" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fafff0;strokeColor=#82b366;" value="运动规划阶段&lt;br&gt;(参考轨迹)" vertex="1">
+          <mxGeometry height="120" width="120" x="40" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer3_Main" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fafff0;strokeColor=#82b366;dashed=1;" value="" vertex="1">
+          <mxGeometry height="120" width="760" x="180" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer3_Title" parent="1" style="text;html=1;align=left;fontStyle=1;fontColor=#2D7600;" value="第三层：规划层——全向全地形在线步态生成 (第4章)" vertex="1">
+          <mxGeometry height="20" width="400" x="190" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="3.1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" value="3.1 在线足端规划&lt;br&gt;约束下的步长与周期规划&lt;br&gt;接触时序自适应生成" vertex="1">
+          <mxGeometry height="70" width="220" x="200" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="3.2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" value="3.2 CoM 轨迹优化&lt;br&gt;基于时变 $w(t)$ 的 DCM 闭式解&lt;br&gt;全地形高度注入与稳定子系统" vertex="1">
+          <mxGeometry height="70" width="220" x="450" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="3.3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" value="3.3 全身逆运动学 (IK)&lt;br&gt;带约束的 DLS-IK 求解算法&lt;br&gt;质心与摆动足的全身协调映射" vertex="1">
+          <mxGeometry height="70" width="220" x="700" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer3_Right" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fafff0;strokeColor=#82b366;fontSize=11;" value="DCM (Divergent Component of Motion)&lt;br&gt;DLS-IK 求解&lt;br&gt;在线优化算法" vertex="1">
+          <mxGeometry height="120" width="160" x="960" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer4_Left" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#d79b00;strokeWidth=2;" value="控制算法研究&lt;br&gt;(核心创新)" vertex="1">
+          <mxGeometry height="150" width="120" x="40" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer4_Main" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#d79b00;dashed=0;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="150" width="760" x="180" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer4_Title" parent="1" style="text;html=1;align=left;fontStyle=1;fontColor=#B57300;" value="第四层：控制层——核心控制架构研究 (第5、6章)" vertex="1">
+          <mxGeometry height="20" width="400" x="190" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="4A" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;align=left;spacingLeft=10;" value="分支A：基于扰动估计的鲁棒控制 (IRON)&lt;br&gt;· 增强型扰动观测器 (Augmented DOB)&lt;br&gt;· 自适应鲁棒控制 (ARC) 律设计&lt;br&gt;· 系统确定性与闭环稳定性证明" vertex="1">
+          <mxGeometry height="100" width="340" x="200" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="4B" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;align=left;spacingLeft=10;" value="分支B：统一的具身交互与抗扰控制 (UDREAM)&lt;br&gt;· 基于 GANGT 的轻量化意图识别&lt;br&gt;· 基于“双因子”合作博弈的协同行走&lt;br&gt;· URDR 与 NMPC 步进优化无缝切换" vertex="1">
+          <mxGeometry height="100" width="340" x="580" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer4_Right" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#d79b00;fontSize=11;" value="IRON 框架&lt;br&gt;UDREAM 框架&lt;br&gt;GANGT 网络&lt;br&gt;Game Theory" vertex="1">
+          <mxGeometry height="150" width="160" x="960" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer5_Left" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;" value="实验验证阶段&lt;br&gt;(成果产出)" vertex="1">
+          <mxGeometry height="100" width="120" x="40" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer5_Main" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;dashed=1;" value="" vertex="1">
+          <mxGeometry height="100" width="760" x="180" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer5_Title" parent="1" style="text;html=1;align=left;fontStyle=1;fontColor=#A50000;" value="第五层：验证层——综合实验与性能评估 (综合验证)" vertex="1">
+          <mxGeometry height="20" width="400" x="190" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="5.1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=10;" value="基础功能：&lt;br&gt;全向行走/转向跟踪" vertex="1">
+          <mxGeometry height="50" width="150" x="200" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="5.2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=10;" value="抗扰性能：&lt;br&gt;突发推扰恢复实验" vertex="1">
+          <mxGeometry height="50" width="150" x="385" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="5.3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=10;" value="复杂环境：&lt;br&gt;坡地/楼梯/多地形测试" vertex="1">
+          <mxGeometry height="50" width="150" x="570" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="5.4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=10;" value="临床模拟：&lt;br&gt;截瘫行走/交互力评估" vertex="1">
+          <mxGeometry height="50" width="150" x="755" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="Layer5_Right" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;fontSize=11;" value="定量评价指标&lt;br&gt;对比实验分析&lt;br&gt;临床适应性评估" vertex="1">
+          <mxGeometry height="100" width="160" x="960" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="edge1" edge="1" parent="1" source="Layer1_Main" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#666666;" target="Layer2_Main" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge2" edge="1" parent="1" source="Layer2_Main" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#666666;" target="Layer3_Main" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge3" edge="1" parent="1" source="Layer3_Main" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#666666;" target="Layer4_Main" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge4" edge="1" parent="1" source="Layer4_Main" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#666666;" target="Layer5_Main" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
