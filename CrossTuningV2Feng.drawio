@@ -164,16 +164,16 @@
         <mxCell id="dzqnxFggqbEXwcTKmrew-128" edge="1" parent="1" source="dzqnxFggqbEXwcTKmrew-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dzqnxFggqbEXwcTKmrew-125" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dzqnxFggqbEXwcTKmrew-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;arcSize=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=#D5E8D4;strokeColor=none;" value="Fusion&amp;nbsp; Projection" vertex="1">
+        <mxCell id="dzqnxFggqbEXwcTKmrew-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;arcSize=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#B9E0A5;gradientColor=none;strokeColor=none;opacity=80;" value="Fusion&amp;nbsp; Projection" vertex="1">
           <mxGeometry height="210" width="70" x="649" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="dzqnxFggqbEXwcTKmrew-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#B9E0A5;shadow=1;" value="Transformer Based Backbone" vertex="1">
+        <mxCell id="dzqnxFggqbEXwcTKmrew-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#97D077;shadow=1;" value="Transformer Based Backbone" vertex="1">
           <mxGeometry height="70" width="160" x="770" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="dzqnxFggqbEXwcTKmrew-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#B9E0A5;strokeColor=none;shadow=1;" value="MLP Based Backbone" vertex="1">
+        <mxCell id="dzqnxFggqbEXwcTKmrew-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#97D077;strokeColor=none;shadow=1;" value="MLP Based Backbone" vertex="1">
           <mxGeometry height="70" width="160" x="770" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="dzqnxFggqbEXwcTKmrew-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;arcSize=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=#D5E8D4;strokeColor=none;" value="Action&amp;nbsp; Head" vertex="1">
+        <mxCell id="dzqnxFggqbEXwcTKmrew-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;arcSize=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#B9E0A5;gradientColor=none;opacity=80;strokeColor=none;" value="Action&amp;nbsp; Head" vertex="1">
           <mxGeometry height="210" width="59.25" x="990" y="110" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" value="" vertex="1">
