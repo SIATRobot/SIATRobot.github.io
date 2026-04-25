@@ -205,13 +205,13 @@
           <mxGeometry height="15" width="15" x="524.0000000000001" y="414.5" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-63" parent="MopjyLCn5cwDoYUGMwCY-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#003366;" value="Attention LoRA" vertex="1">
-          <mxGeometry height="30" width="60" x="92.5" y="540" as="geometry" />
+          <mxGeometry height="30" width="89.5" x="92.5" y="542" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-65" parent="MopjyLCn5cwDoYUGMwCY-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#003366;" value="FFN LoRA" vertex="1">
           <mxGeometry height="30" width="60" x="339.34000000000003" y="542" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-66" parent="MopjyLCn5cwDoYUGMwCY-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#003366;" value="MLP LoRA" vertex="1">
-          <mxGeometry height="30" width="60" x="522.2500000000001" y="540" as="geometry" />
+          <mxGeometry height="30" width="60" x="522.2500000000001" y="542" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-82" parent="MopjyLCn5cwDoYUGMwCY-29" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#CCE5FF;opacity=80;strokeColor=none;shadow=1;" value="" vertex="1">
           <mxGeometry height="150" width="200" x="625.8500000000001" y="374" as="geometry" />
@@ -306,7 +306,7 @@
         <mxCell id="dzqnxFggqbEXwcTKmrew-98" parent="MopjyLCn5cwDoYUGMwCY-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#003366;" value="Prefix-tuning" vertex="1">
           <mxGeometry height="30" width="75.69" x="858.6599999999999" y="542" as="geometry" />
         </mxCell>
-        <mxCell id="dzqnxFggqbEXwcTKmrew-110" parent="MopjyLCn5cwDoYUGMwCY-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#003366;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Embodiment&lt;/font&gt;" vertex="1">
+        <mxCell id="dzqnxFggqbEXwcTKmrew-110" parent="MopjyLCn5cwDoYUGMwCY-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#003366;fontStyle=1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Embodiment&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="76" x="23.5" y="2.5" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-117" parent="MopjyLCn5cwDoYUGMwCY-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#003366;" value="Adapter" vertex="1">
@@ -315,10 +315,10 @@
         <mxCell id="dzqnxFggqbEXwcTKmrew-120" parent="MopjyLCn5cwDoYUGMwCY-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#003366;fontStyle=1" value="PEFT" vertex="1">
           <mxGeometry height="30" width="60" x="519.0000000000001" y="575" as="geometry" />
         </mxCell>
-        <mxCell id="kODvIz2YDW68xNNzb2Ty-4" parent="MopjyLCn5cwDoYUGMwCY-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#003366;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Policy Learning&lt;/font&gt;" vertex="1">
+        <mxCell id="kODvIz2YDW68xNNzb2Ty-4" parent="MopjyLCn5cwDoYUGMwCY-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#003366;fontStyle=1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Policy Learning&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="132" x="393" as="geometry" />
         </mxCell>
-        <mxCell id="MopjyLCn5cwDoYUGMwCY-3" parent="MopjyLCn5cwDoYUGMwCY-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#003366;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Deploy&lt;/font&gt;" vertex="1">
+        <mxCell id="MopjyLCn5cwDoYUGMwCY-3" parent="MopjyLCn5cwDoYUGMwCY-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#003366;fontStyle=1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Deploy&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="132" x="891.73" y="5.5" as="geometry" />
         </mxCell>
         <mxCell id="MopjyLCn5cwDoYUGMwCY-8" parent="MopjyLCn5cwDoYUGMwCY-29" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E1D5E7;strokeColor=none;shadow=1;opacity=80;" value="" vertex="1">
