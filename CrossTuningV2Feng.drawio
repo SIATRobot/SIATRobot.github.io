@@ -426,10 +426,10 @@
           <mxGeometry height="30" width="60" x="1091.96" y="60" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Policy" vertex="1">
-          <mxGeometry height="30" width="60" x="658.1800000000001" y="60" as="geometry" />
+          <mxGeometry height="30" width="60" x="500" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="dzqnxFggqbEXwcTKmrew-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Policy" vertex="1">
-          <mxGeometry height="30" width="60" x="454.1" y="20" as="geometry" />
+        <mxCell id="dzqnxFggqbEXwcTKmrew-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pre-trarning" vertex="1">
+          <mxGeometry height="30" width="76" x="354" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
