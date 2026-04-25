@@ -25,9 +25,6 @@
         <mxCell id="dzqnxFggqbEXwcTKmrew-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" value="" vertex="1">
           <mxGeometry height="247.5" width="425" x="1090" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="-dkN8FraHh125o7oBqYf-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=#D5E8D4;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="245" width="120" x="500" y="95" as="geometry" />
-        </mxCell>
         <mxCell id="NIjqHh5wsjt1AMxnMxMP-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Reference&amp;nbsp;&lt;br&gt;Projection" vertex="1">
           <mxGeometry height="40" width="110" y="150" as="geometry" />
         </mxCell>
@@ -152,7 +149,7 @@
         <mxCell id="dzqnxFggqbEXwcTKmrew-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="19 DoF" vertex="1">
           <mxGeometry height="30" width="60" x="1158.1399999999999" y="108.13" as="geometry" />
         </mxCell>
-        <mxCell id="dzqnxFggqbEXwcTKmrew-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#003366;fontStyle=0;align=center;verticalAlign=middle;strokeColor=none;" value="Reference&amp;nbsp;&lt;br&gt;Projection" vertex="1">
+        <mxCell id="dzqnxFggqbEXwcTKmrew-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#003366;fontStyle=0;align=center;verticalAlign=middle;strokeColor=#D5E8D4;" value="Reference&amp;nbsp;&lt;br&gt;Projection" vertex="1">
           <mxGeometry height="40" width="100" x="510" y="110" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#003366;fontStyle=0;align=center;verticalAlign=middle;strokeColor=none;" value="Last Action Projection" vertex="1">
@@ -164,7 +161,7 @@
         <mxCell id="dzqnxFggqbEXwcTKmrew-128" edge="1" parent="1" source="dzqnxFggqbEXwcTKmrew-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dzqnxFggqbEXwcTKmrew-125" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dzqnxFggqbEXwcTKmrew-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Fusion&amp;nbsp; Projection" vertex="1">
+        <mxCell id="dzqnxFggqbEXwcTKmrew-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;arcSize=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=#D5E8D4;" value="Fusion&amp;nbsp; Projection" vertex="1">
           <mxGeometry height="210" width="59.25" x="659.75" y="110" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" value="Transformer Based Backbone" vertex="1">
