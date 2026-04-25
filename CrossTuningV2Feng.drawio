@@ -128,10 +128,10 @@
         <mxCell id="dzqnxFggqbEXwcTKmrew-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="27 DoF" vertex="1">
           <mxGeometry height="30" width="60" x="1373.94" y="80.25" as="geometry" />
         </mxCell>
-        <mxCell id="dzqnxFggqbEXwcTKmrew-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="31 DoF" vertex="1">
+        <mxCell id="dzqnxFggqbEXwcTKmrew-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="29 DoF" vertex="1">
           <mxGeometry height="30" width="60" x="1250" y="80.25" as="geometry" />
         </mxCell>
-        <mxCell id="dzqnxFggqbEXwcTKmrew-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="31 DoF" vertex="1">
+        <mxCell id="dzqnxFggqbEXwcTKmrew-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="19 DoF" vertex="1">
           <mxGeometry height="30" width="60" x="1158.1399999999999" y="88.13" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Reference&amp;nbsp;&lt;br&gt;Projection" vertex="1">
