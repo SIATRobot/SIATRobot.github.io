@@ -152,7 +152,7 @@
         <mxCell id="dzqnxFggqbEXwcTKmrew-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Proprioception Projection" vertex="1">
           <mxGeometry height="40" width="100" x="510" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="dzqnxFggqbEXwcTKmrew-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Fusion&amp;nbsp; Projection" vertex="1">
+        <mxCell id="dzqnxFggqbEXwcTKmrew-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Fusion&amp;nbsp; Projection" vertex="1">
           <mxGeometry height="210" width="59.25" x="659.75" y="110" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" value="Transformer Based Backbone" vertex="1">
@@ -411,7 +411,7 @@
           <mxGeometry height="30" width="60" x="1216.15" y="540" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-105" connectable="0" parent="1" style="group;rotation=90;direction=east;flipV=0;legacyAnchorPoints=0;" value="" vertex="1">
-          <mxGeometry height="92.5" width="176" x="460" y="890" as="geometry" />
+          <mxGeometry height="92.5" width="176" x="1290" y="420" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-100" parent="dzqnxFggqbEXwcTKmrew-105" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=none;flipV=0;legacyAnchorPoints=0;" value="" vertex="1">
           <mxGeometry height="92.5" width="176" as="geometry" />
@@ -436,6 +436,9 @@
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Embodiment" vertex="1">
           <mxGeometry height="30" width="76" x="354" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dzqnxFggqbEXwcTKmrew-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Adapter" vertex="1">
+          <mxGeometry height="30" width="60" x="1348" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
