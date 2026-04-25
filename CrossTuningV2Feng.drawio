@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="第 1 页" id="xPRpXFovGA96q6Q_Gm3J">
-    <mxGraphModel dx="1305" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="921" dy="354" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" value="" vertex="1">
           <mxGeometry height="266.87" width="595.16" x="484.84" y="83.13" as="geometry" />
+        </mxCell>
+        <mxCell id="dzqnxFggqbEXwcTKmrew-129" edge="1" parent="1" source="dzqnxFggqbEXwcTKmrew-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dzqnxFggqbEXwcTKmrew-29" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-125" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="231" width="191" x="757" y="99" as="geometry" />
@@ -151,6 +154,9 @@
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Proprioception Projection" vertex="1">
           <mxGeometry height="40" width="100" x="510" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dzqnxFggqbEXwcTKmrew-128" edge="1" parent="1" source="dzqnxFggqbEXwcTKmrew-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dzqnxFggqbEXwcTKmrew-125" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dzqnxFggqbEXwcTKmrew-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Fusion&amp;nbsp; Projection" vertex="1">
           <mxGeometry height="210" width="59.25" x="659.75" y="110" as="geometry" />
